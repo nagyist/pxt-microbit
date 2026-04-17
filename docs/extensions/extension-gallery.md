@@ -577,6 +577,10 @@ Many extensions are available to work with interface kits, add-on hardware, or o
 
 ```codecard
 [{
+  "name": "Tobbie-II (Translated)",
+  "url":"/pkg/Jim-no-surname-provided/pxt-tobbieII",
+  "cardType": "package"
+}, {
   "name": "Siyeenove Pybit",
   "url":"/pkg/siyeenove/pxt_pybit",
   "cardType": "package"
